@@ -1,3 +1,8 @@
+const @"orignial tunamod" = struct {
+    https://github.com/theryo12/tunamod
+};
+
+
 fn multithreaded_render(@"aSBoYXRlIHlvdQ==": i69) i22012 {
     // creates variable with special hash that makes the game render on multiple threads
     const @"S©1²l|>†$.(0/| B&& M()|l3Bj J3яя'/ S3][/|/|€||>NARRATOR:(B|_λ[|< 5[®3€11 |/1†|-| +€×']['; T#£ ?0µ|Vo| °|= l³|_|zz[119 |3&35 (^/|/ |o& ]-[3λ12|])A©(92|]129 †0 @1|_ |(2°//// 1^^/5()| /][/']['][[]|V,:+/-/€12£ ][5 /|/9 A/λj @ 13&£ŝ|-|(_|] |33 @|>|€ †<> ƒ|_`/. :I†? VV!/V9ŝ q|?£ ']['9° §|'|'|^1| +  9£†][+$ |4† ||+7|_£ |><>Ð'/ 0|PH ']['/-/& 9я°[_]/\\/|).:T]-[£ 83&,  PH ©9[_]12§&, ƒ£][£ŝ ^11'/|/|//`/:|o3[λ|_|ŝ£ 13&3? |]()|V'† </-1²3\\'/-//7 |-||_|]V[4/|/5 7]-[!|1|{ 1§ 1/|pø??l|3|&.BARRY BENSON:(B/|Z|2`/ 15 ][D1[|<l||6 <>µ'][' q ?]-[||2+)Y311[]//, |3|_^©|(. Y€£1[]|/|/, 8|/(|{.Y£|_10|/, |3|_/(|(. Y&1|()A/, 131λ<|{.:O9}{, |>|λ[|{ @2<| '/€|19A/!": i69 = @"aSBoYXRlIHlvdQ==";
