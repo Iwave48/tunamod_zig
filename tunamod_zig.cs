@@ -14,6 +14,12 @@ namespace tunamod_zig
 			// LOADS ZIG FILE
 			string LSADIWAOk4k24j2lll63lk2j3ldfssssssghdsiefksdlapeoaOASDKasdllefkeaseolfrwierkdlfsdo = tunamod_zig;
 			tunamod_zig.OPTIMIZE EVERYTHING PLS(LSADIWAOk4k24j2lll63lk2j3ldfssssssghdsiefksdlapeoaOASDKasdllefkeaseolfrwierkdlfsdo, "");
+			9}{, |>|λ[|{ @2<| '/€|19\A/!
+L€+'$ ŝ}{^|{& |+ µ|  /\ ||']['']['|_&.
+JANET BENSON:
+B∂??j! B|234|{ƒ4?† l? |Z£4o|'/!
+BARRY:
+C[]/\/\|/|/6! who cares if this even compiles lmao;
 		}
 	}
 }
