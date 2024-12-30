@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3D8TXlHBb6o=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tunamod_zig\\tunamod_zig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reysi\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
